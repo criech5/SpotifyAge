@@ -54,8 +54,8 @@ else:
 
 scope = 'user-library-read'
 
-token = util.prompt_for_user_token(username, scope, client_id='136c245c7f744cf1844b2bb64aadbcb1',
-                                                          client_secret='a954bbaf3e7f444e9d3bee48c10e7656', redirect_uri='https://accounts.spotify.com/en/status')
+token = util.prompt_for_user_token(username, scope, client_id='***************',
+                                                          client_secret='***************', redirect_uri='https://accounts.spotify.com/en/status')
 
 
 
